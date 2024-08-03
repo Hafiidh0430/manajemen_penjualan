@@ -5,16 +5,6 @@
 
 <hr>
 
-  
-# **Teacher**
-<p  align="center">
-<img  src="https://dickybulin26.github.io/smkn1kotabekasi/code/image/FOTO%20GURU%20DAN%20STAF/Agus%20Wibowo,%20S(1).jpg"  target="_blank"
-width="400"  alt="Agus Wibowo M.Kom">
-<h1 align="center"><a href="https://github.com/bowonieh"> Agus Wibowo M.Kom </a></h1>
-</p>
-
-  
-
 # **Project Requirements**
 
   
